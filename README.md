@@ -1,2 +1,2 @@
-# Class-Notes
-All the vaults needed for my classes
+# PapyrusScriptum
+## Notes for my classes and personal use
