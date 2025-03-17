@@ -1,5 +1,14 @@
+---
+title: Unit 7.1 - Shifting Power
+unitTitle: Unit 7 - Global Conflicts
+description: How power shifted with the collapse of empires
+creationDate: Feb 28, 2025
+pubDate: March 17, 2025
+unit: 7.1
+---
+
 ```mermaid
-graph TD;
+graph LR;
     WeakEmpire["An Empire/State with old economy, government, and outdated military"]--> Reforms["Attempts to reform with modern ideas"];
     Reforms --> InitalAcceptance["Accepts modern ideas"];
     InitalAcceptance --> Collapsing["Goes back to old ways when threatened with war or is at war"];
@@ -8,30 +17,60 @@ graph TD;
 
 ```
 
-[[Unit 7.2 - Causes of WW1]]
 
 
-### Decline of the Ottoman Empire
+
+
+# Decline of the Ottoman Empire
 
 Ottomans Attempted reforms via the Tanzimat Reforms. w/ help of Young Ottomans
-	- Industry and Democracy
-	- Worked in Short run
+- Industry and Democracy
+- Worked in Short run
+
+
 When threaten with war the sultan went back to authoritarian.
 
 New group, Young Turks rose up and overthrew the sultan. Created reforms:
-	- New Schools detached from religon
-	- DEMOCRACY
-	- Turkic language
+- New Schools detached from religon
+- DEMOCRACY
+- Turkic language
+
+
 This pissed off other ethic groups and they rose up, breaking the Ottoman Empire
 
-### Collapse of the Russian Empire
+# Collapse of the Russian Empire
+Failing and corrupt government
 
-The Russian Empire faced internal strife due to a growing middle class and working-class grievances at the turn of the century. The 1905 Revolution was brutally suppressed, but some reforms were introduced. However, ongoing issues and the pressures of WWI culminated in the successful Bolshevik Revolution of 1917, leading to the establishment of a communist state.
+- Ra Ra, Rasputin. Somehow making it into the royal family and messing with affairs
+- Tsar Nicholas II being an incompetent and brutal authoritarian ruler.
+- Brewing communist uprising promising peace, bread, prosperity and generally appeasing to common people
+- Eventual communist overthrow after fail reforms and great losses from ww1
 
-### Fall of the Qing Dynasty in China
+# Fall of the Qing Dynasty in China
+Didn't change at all
 
-China experienced significant turmoil and external aggression which led to the decline of the Qing Dynasty. The Tai Ping and Boxer Rebellions were responses to internal oppression and foreign interference. This culminated in a revolutionary movement that resulted in the abdication of the Qing Emperor, ending over 2000 years of imperial rule, and paving the way for a provisional government that ultimately led to a communist state.
+- Uses old practices
+- Refused to do refroms
+- Didn't use industry at all
 
-### Mexican Revolution
+The Great powers had attempted to gain power in china to offset their trade deficit with them
+- first opium war to expand trade rights
+- second opium war to get people addicted
+All of these wars leading to Qing Dynasty slowly loosing control and people falling to starvation and drugs
+- multiple uprisings suppressed by help of imperial powers in order to keep trades
+- chaos after multiple rebellions
+This only leading the rise of the republic of china which later fell to the people's republic of china. Modern day China & Taiwan
 
-In Mexico, widespread dissatisfaction with the dictatorial rule of Porfirio Díaz sparked the Mexican Revolution. Francisco Madero's election led to his assassination and a decade of civil war, involving prominent leaders like Pancho Villa and Emiliano Zapata. The revolution concluded in 1917 with a new constitution enacting reforms like universal male suffrage and limiting the power of the Catholic Church, marking Mexico's emergence as a republic.
+# Mexican Revolution
+Everyone in mexico angry at dictator Porfirio Diaz
+
+- A revolution which attempted to from a democracy
+	- First president shot
+	- Another civil war
+		- Pancho Villa
+		- Emiliano Zapata
+- Ended with new party, the PRI
+	- Nationalized foreign industry
+	- Universal Suffering
+	- A constitution
+	- Limiting the church
