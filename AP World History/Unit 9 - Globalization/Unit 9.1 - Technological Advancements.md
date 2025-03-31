@@ -7,7 +7,7 @@ Globalization is described as the interconnectedness created by trade and techno
 
 ## Communication
 - ### Radio
-	- Allowed large transmissions of messages
+	- Allowed ==large transmissions of messages==
 	- Relied on radio waves and worked in region around the emitter 
 		- Radio Tower
 		- Another Radio
@@ -19,8 +19,9 @@ Globalization is described as the interconnectedness created by trade and techno
 	- Can do thousands of computations per millisecond.
 - ### Internet
 	This is how you are accessing these notes right now.
-	Allowed for messages to reach far and wide. Form of mass communications
+	Allowed for ==messages to reach far and wide==. Form of mass communications
 	If I wanted to I can talk to somebody in the UK if I wanted to using this.
+	- ==MOST IMPORTANT==
 	- Interconnected computers
 	- Allows visiting information
 	- Originally developed to send documents
@@ -32,7 +33,7 @@ Globalization is described as the interconnectedness created by trade and techno
 ## Transportation
 So basically, you can move anywhere now
 - ### Planes
-	What I use to go to mexico.
+	What I use to go to Mexico.
 	- Goes thru sky
 	- Can transport:
 		- People
@@ -44,7 +45,7 @@ So basically, you can move anywhere now
 		- Me
 		- You
 		- and bob
-	- Mostly used to move countries
+	- ==Mostly used to move countries==
 - ### Trains
 	Why don't we have any in the USA?
 	- Preset routes
@@ -64,7 +65,7 @@ So after nuke was developed we found out how to use it instead of make energy
 - Uses same reaction as in nuke
 - Not devastating
 - Makes water mad (Boil)
-### Petroleum
+### ==Petroleum==
 - Burn it
 - Makes a lot of heat to generate power
 - Creates large amounts of power
@@ -77,7 +78,7 @@ So after nuke was developed we found out how to use it instead of make energy
 - hydroelectric power 
 	See that water moving? we turn that into power
 Both windmills and hydroelectric power just turn something to generate electricity
-Created due to concerns on global climate
+==Created due to concerns on global climate==
 
 # Medical
 We will cover most of it on unit 9.2

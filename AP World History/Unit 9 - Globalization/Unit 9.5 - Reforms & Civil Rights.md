@@ -1,5 +1,5 @@
 ###  Universal Declaration of Human Rights
-A big list of rights everyone should have
+==A big list of rights everyone should have==
 1948, right after World War II
   - Protected people who were being treated unfairly
   - Helped create organizations to help kids (UNICEF)
@@ -8,7 +8,7 @@ A big list of rights everyone should have
 
 
 ###  Women's Rights Advancements
-Wanted Equal rights to men
+==Wanted Equal rights to men==
   - 1975: First big women's conference
   - 1979: Created special rules to protect women
 
@@ -20,19 +20,19 @@ Wanted Equal rights to men
 
 ###  Negritude Movement
 - Celebrate Black Culture
-- Fight from racism
+- ==Fight from racism==
 - Happened in Africa and Caribbean
 
 ###  Liberation Theology
 Latin American Movement
-- Church helped people
+- ==Church helped people==
 - They became like Mr. Beast
 
 
 
 ###  Educational and Political Reforms
 - Change:
-	- People wanted to vote
+	- ==People wanted to vote==
 	- Wanted education
 	- Fair reforms
 - Examples
@@ -42,9 +42,9 @@ Latin American Movement
 
  Environmental Reforms 
   - Greenpeace started fighting for the planet
-  - Wanted to stop pollution
+  - ==Wanted to stop pollution==
   - Protected animals and nature
 Fair Worker Treatment
-  -  Made sure workers got fair pay
+  -  ==Made sure workers got fair pay==
   - No exploitation
   - Sustainable practices

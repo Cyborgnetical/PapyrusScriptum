@@ -1,5 +1,5 @@
 # Neo liberalism
-Governments get their hands off the government
+==Governments get their hands off the economy==
 Less spending now that war is over
 - ## Major Players: 
 - USA
@@ -18,7 +18,7 @@ So nerd are making money now
 ## Knowledge Workers
 People with formal education
 - Job:
-The one Grading these notes, Lawyers, my dream career Engineers, Heimler, me
+The one Grading these notes, ==Lawyers, my dream career Engineers, Heimler, me==
 - Challenges
 	- People stuck in old ways
 	- A lot of education needed
@@ -26,7 +26,7 @@ The one Grading these notes, Lawyers, my dream career Engineers, Heimler, me
 
 
 #  Global Manufacturing Shift
-Factories are moving to cheaper places
+==Factories are moving to cheaper places==
 - ### Locations:
 	- CHINA - why everything made in china
 	- Taiwan
@@ -39,7 +39,8 @@ Factories are moving to cheaper places
 	- We can move a lot now
 
 # Global Groups
-- WTO (World Trade Organization)
+- ==THE UNITED NATIONS==
+- ==WTO (World Trade Organization)==
 - Forces countries to behave nice
 - Fixes trade fights
 - ### Local Groups:
