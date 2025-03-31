@@ -5,6 +5,7 @@ Notes for my classes and personal use
 
 ```git clone https://github.com/Cyborgnetical/PapyrusScriptum.git```
 
+
 📚 My Personal notes written by me. Feel free to use them how ever needed.
 
 ## About
