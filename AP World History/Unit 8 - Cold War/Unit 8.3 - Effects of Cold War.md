@@ -34,6 +34,15 @@ Examples:
 	- USSR attempted to apply to NATO and got rejected lol
 - ## Warsaw Pact
 	- Anti-NATO
-	- The cheap temu knockoff of NATO
-	- Created by the USSR and named after polands capital
-	- 
+	- The cheap Temu knockoff of NATO
+	- Created by the USSR and named after Poland capital
+	- Comprised of the USSR and eastern Europe under USSR control
+# Power of the Atom
+## AKA: The nuclear bomb
+- Used to end WW2 in Asia and prevent invasion of japan
+- After that the USA had a monopoly on nuclear weapons and could threat
+- ### The USSR gains nukes
+	- Afraid of this nuclear monopoly the USSR develops its own nukes
+	- A nuclear arms race is created, whom ever can create the most and devastating nukes
+	- Leads into the cold war because both realize that we can eliminate the entire world
+![[proxy-image.jpg]]
